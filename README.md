@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Alee Hassan</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=500&height=50&lines=Ethical+Hacker;Cybersecurity+Enthusiast;Web+%26+C%2B%2B+Developer;Secure+Code+Architect" alt="Typing SVG" />
+</p>
 
-<!--
-**aleehassan-5/aleehassan-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/github/followers/aleehassan-5?label=Followers&style=for-the-badge&color=00FF66&logo=github" />
+  <img src="https://img.shields.io/github/stars/aleehassan-5/cyber-recon-tool?label=Recon+Stars&style=for-the-badge&color=00599C&logo=github" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌌 About Me
+- 🔭 **Current Focus:** Building an advanced reconnaissance tool [cyber-recon](https://github.com/aleehassan-5/cyber-recon-tool) for network analysis.
+- 💡 **Passionate About:** Penetration testing, malware analysis, memory management in C++, and creating high-performance secure web apps.
+- 💻 **OS of Choice:** Linux (Arch/Kali) & Windows for development.
+- 🎯 **2026 Goals:** Deep dive into Smart Contract Auditing and Kernel-level security exploits.
+- 📫 **Get in Touch:** [aleehassan2293@gmail.com](mailto:aleehassan2293@gmail.com)
+
+---
+
+### 🛡️ Cybersecurity Expertise & Roadmap

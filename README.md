@@ -15,7 +15,7 @@
 - 💡 **Passionate About:** Penetration testing, malware analysis, memory management in C++, and creating high-performance secure web apps.
 - 💻 **OS of Choice:** Linux (Arch/Kali) & Windows for development.
 - 🎯 **2026 Goals:** Deep dive into Smart Contract Auditing and Kernel-level security exploits.
-- 📫 **Get in Touch:** [aleehassan2293@gmail.com](mailto:aleehassan2293@gmail.com)
+
 
 ---
 

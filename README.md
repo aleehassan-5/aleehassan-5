@@ -1,16 +1,7 @@
-<!-- Header Banner -->
+<!-- Animated Colorful Hacker Banner -->
 <div align="center">
 
-```
- █████╗ ██╗     ███████╗███████╗    ██╗  ██╗ █████╗ ███████╗███████╗ █████╗ ███╗   ██╗
-██╔══██╗██║     ██╔════╝██╔════╝    ██║  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗████╗  ██║
-███████║██║     █████╗  █████╗      ███████║███████║███████╗███████╗███████║██╔██╗ ██║
-██╔══██║██║     ██╔══╝  ██╔══╝      ██╔══██║██╔══██║╚════██║╚════██║██╔══██║██║╚██╗██║
-██║  ██║███████╗███████╗███████╗    ██║  ██║██║  ██║███████║███████║██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
-
-# 👾 ALEE HASSAN
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00FF41,100:8A2BE2&height=220&section=header&text=ALEE%20HASSAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20Security%20Researcher%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 ### `[ Ethical Hacker | Security Researcher | Full-Stack Developer ]`
 
@@ -196,6 +187,6 @@ class AleeHassan:
 
 **⭐ Star my repos if you find them useful!**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00FF41,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
